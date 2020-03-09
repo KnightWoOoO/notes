@@ -1,0 +1,2 @@
+# notes
+Technology notes
